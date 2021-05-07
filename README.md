@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/50012514/117424941-e3dda700-af54-11eb-8e5d-cd1d549ec01d.git)
+![image](https://raw.githubusercontent.com/WatermelonXIGUAGUA/KnowledgeManagement/main/code.gif)
 
 
 
