@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/WatermelonXIGUAGUA">
-    <img id="logo" src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width="600" />
+    <img id="logo" src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" stye="border-radius: 15px" width="600" />
 </a>
 </p>
 
