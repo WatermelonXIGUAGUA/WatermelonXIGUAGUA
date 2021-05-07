@@ -1,7 +1,5 @@
 
-
-![Code](https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif)
-<img src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width = "100" height = "100" div align=center />
+<img src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width = "650" height = "300" div align=center />
 
 
 
