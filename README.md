@@ -1,6 +1,6 @@
 
+- 🔭 I’m currently working on ...
 
-![image](https://raw.githubusercontent.com/WatermelonXIGUAGUA/KnowledgeManagement/main/code.gif)
 
 
 
