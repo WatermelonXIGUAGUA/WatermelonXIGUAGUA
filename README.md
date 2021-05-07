@@ -1,5 +1,5 @@
 
-![](https://i0.hdslb.com/bfs/album/e7288b05a772bff7718a506bccfc15876deac4e7.gif)
+<a href="https://imgtu.com/i/g3gh28"><img src="https://z3.ax1x.com/2021/05/07/g3gh28.md.gif" alt="g3gh28.gif" border="0" /></a>
 
 
 
