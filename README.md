@@ -1,6 +1,7 @@
 
 
-<div align=center> ![Code](https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif)
+<div align=center> ![Code](https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif)</div>
+
 
 <!--
 **WatermelonXIGUAGUA/WatermelonXIGUAGUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
