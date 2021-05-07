@@ -1,6 +1,11 @@
-<img src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width = "100" height = "100" div align=center />
-<img src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width = "100" height = "100" div align=center />
 
+<h3 align="center">Hi, and WELCOME 👋 你好, 欢迎！</h3>
+
+<p align="center">
+  <a href="http://hollowman6.github.io/">
+    <img id="logo" src="https://user-images.githubusercontent.com/50012514/117455910-3a111100-af7a-11eb-948c-a7888bab66e6.gif" width="370" />
+  </a>
+</p>
 
 
 <!--
