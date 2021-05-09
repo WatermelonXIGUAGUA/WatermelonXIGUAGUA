@@ -1,5 +1,5 @@
 
-<h3 align="center">🇨🇳Hi, and WELCOME 👋 你好, 欢迎！🎉🎉🎉</h3>
+<h3 align="center">🇨🇳👋 你好, 欢迎！🎉🎉🎉</h3>
 
 <p align="center">
   <a href="https://github.com/WatermelonXIGUAGUA">
